@@ -1,6 +1,14 @@
 ul li{
   padding: 20px;
   list-style-type: none;
+ 
+    width: 100vw;
+    height: auto;
+   
+  
+    flex-direction: column;
+  
+  
 }
 
  button {
